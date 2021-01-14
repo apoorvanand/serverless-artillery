@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/Nordstrom/serverless-artillery#readme",
   "dependencies": {
-    "aws-sdk": "^2.411.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.4.6",
     "get-stdin": "^5.0.1",
     "js-yaml": "^3.6.1",
